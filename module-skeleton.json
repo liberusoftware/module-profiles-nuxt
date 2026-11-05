@@ -1,0 +1,25 @@
+{
+  "repository": "module-profiles-nuxt",
+  "capabilityKey": "liberusoftware/profiles",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-profiles-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/boilerplate/nextjs/profiles.md",
+  "presentationPlan": "projects/boilerplate/nuxt/profiles.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
